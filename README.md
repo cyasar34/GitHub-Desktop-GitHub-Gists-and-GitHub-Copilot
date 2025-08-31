@@ -15,28 +15,22 @@
 ### GitHub Desktop Ekran Görüntüsü
 ![Github Desktop Görüntü](https://github.com/cyasar34/GitHub-Desktop-GitHub-Gists-and-GitHub-Copilot/blob/main/Gthub_Desktop.PNG)
 
-### En Basit Haliyle: "Proje Dosyaları için Google Drive"
+## GitHub Gists Nedir?
+<p align="justify">Küçük kod parçacıklarını, notları veya config dosyalarını hızlıca paylaşmak için kullanılan bir mikro-depo hizmetidir.<br>
+<b>Kullanım Alanları:</b>
+<li>Bir hatanın çözümünü paylaşma,</li>
+<li>Kısa kod örnekleri (snippet) oluşturma,</li>
+<li>Anonim veya halka açık paylaşım yapma.</li>
+<b>Özellikleri:</b>
+<li>Her Gist bir Git reposu gibidir (version history desteği vardır),</li>
+<li>Özel (private) veya herkese açık (public) olabilir,</li>
+<li>Dil vurgulama (syntax highlighting) destekler.</li></p>
 
-<p align="justify">GitHub'ı, yazılım projelerinize özel bir Google Drive veya Dropbox gibi düşünebilirsiniz. Ancak çok daha akıllı ve güçlüdür:
-<li>Sadece dosyaları saklamaz, her değişikliğin geçmişini de kaydeder.</li>
-<li>Aynı dosya üzerinde aynı anda çalışan insanların çakışmasını (conflict) yönetir.</li>
-<li>Kodları incelemeye, hata bildirmeye, tartışmaya olanak tanır.</li>
+[Github Gists Sayfası Linki](https://gist.github.com/) ilgili sayfadan GitHub Gists'i kullanabilirsiniz.
 
-### Neden GitHub Kullanmalıyız?
+### GitHub Gists Ekran Görüntüsü
+![Github Gists Görüntü](https://github.com/cyasar34/GitHub-Desktop-GitHub-Gists-and-GitHub-Copilot/blob/main/Github_Gists.PNG)
 
-<li align="justify"><b> Güvenli Bulut Yedekleme:</b> Kodunuz ve tüm versiyon geçmişi bulutta saklanır. Bilgisayarınız bozulsa bile projeniz güvendedir.</li>
-
-<li align="justify"><b> Zaman Makinesi:</b> Projenizin eski haline istediğiniz an dönebilir, kimin ne değişiklik yaptığını görebilirsiniz.</li>
-
-<li align="justify"><b> Kolay İş Birliği: </b> Aynı proje üzerinde, aynı anda, dünyanın her yerinden ekip arkadaşlarınızla sorunsuzca çalışabilirsiniz.</li>
-
-<li align="justify"><b> Proje Yönetimi: </b> Görev takibi (Issues), kod incelemesi (Pull Request) ve proje tahtaları (Projects) ile her şey organize olur.</li>
-
-<li align="justify"> <b> Otomasyon (CI/CD): </b> Kodunuzu gönderdiğinizde testlerin otomatik çalışmasını ve sunucuya otomatik yüklenmesini sağlarsınız.</li>
-
-<li align="justify"><b> Portfolyo & CV: </b> Hesabınız, işverenlere gösterdiğiniz canlı bir yetenek portfolyosudur. </li>
-
-<li align="justify"> <b>Açık Kaynak Katkı: </b> Dünyadaki en büyük yazılım projelerine katkıda bulunmanın en kolay yoludur. </li>
 
 ### GitHub Terminolojisi
 
