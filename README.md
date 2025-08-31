@@ -10,6 +10,10 @@
 <li>Push/Pull/Merge işlemleri,</li>
 <b>Avantajı:</b> Komutları ezberlemeden, tıklamalarla kolayca Git işlemleri yapabilirsiniz.</p>
 
+[Github Desktop Sayfası Linki](https://desktop.github.com/download/) ilgili sayfadan GitHub Desktop'ı indirip adımları takip ederek kurulum yapabilirsiniz.
+
+![Github Desktop Görüntü](https://github.com/cyasar34/Git-vs-Github/blob/main/repository_olusturma.jpg)
+
 ### En Basit Haliyle: "Proje Dosyaları için Google Drive"
 
 <p align="justify">GitHub'ı, yazılım projelerinize özel bir Google Drive veya Dropbox gibi düşünebilirsiniz. Ancak çok daha akıllı ve güçlüdür:
