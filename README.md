@@ -8,7 +8,7 @@
 <li>Branch oluşturma,</li>
 <li>Commit oluşturma,</li>
 <li>Push/Pull/Merge işlemleri,</li>
-<b>Avantajı:</b> Komutları ezberlemeden, tıklamalarla kolayca Git işlemleri yapabilirsiniz.</p>
+<b>Avantajı:</b> Komutları ezberlemeden, tıklamalarla kolayca Git işlemleri yapabilirsiniz.</p><br>
 
 [Github Desktop Sayfası Linki](https://desktop.github.com/download/) ilgili sayfadan GitHub Desktop'ı indirip adımları takip ederek kurulum yapabilirsiniz.
 
@@ -20,11 +20,11 @@
 <b>Kullanım Alanları:</b>
 <li>Bir hatanın çözümünü paylaşma,</li>
 <li>Kısa kod örnekleri (snippet) oluşturma,</li>
-<li>Anonim veya halka açık paylaşım yapma.</li>
+<li>Anonim veya halka açık paylaşım yapma.</li><br>
 <b>Özellikleri:</b>
 <li>Her Gist bir Git reposu gibidir (version history desteği vardır),</li>
 <li>Özel (private) veya herkese açık (public) olabilir,</li>
-<li>Dil vurgulama (syntax highlighting) destekler.</li></p>
+<li>Dil vurgulama (syntax highlighting) destekler.</li></p><br>
 
 [Github Gists Sayfası Linki](https://gist.github.com/) ilgili sayfadan GitHub Gists'i kullanabilirsiniz.
 
@@ -38,8 +38,8 @@
 <b>Kullanım Senaryoları:</b>
 <li>Fonksiyon yazarken tamamlama,</li>
 <li>Yorum satırından kod oluşturma,</li>
-<li>Farklı dillerde kod yazma desteği.</li>
-<b>Avantajı:</b> Kodlama hızını artırır, boilerplate kod yazma yükünü azaltır.
+<li>Farklı dillerde kod yazma desteği.</li><br>
+<b>Avantajı:</b> Kodlama hızını artırır, boilerplate kod yazma yükünü azaltır.<br>
 
 [Github Copilot Sayfası Linki](https://github.com/features/copilot) ilgili sayfadan GitHub Copilot'u kullanabilirsiniz.
 
@@ -49,9 +49,9 @@
 
 #### Kısacası
 
-<li>GitHub Desktop:</li> Yerelde yaptığınız değişiklikleri commit edip GitHub'a göndermek için.
-<li>GitHub Gists:</li> Bir arkadaşınıza hızlıca bir SQL sorgusu veya config ayarını paylaşmak için.
-<li>GitHub Copilot:</li> Tekrarlayan kod bloklarını hızlıca yazmak veya yeni bir dilde fonksiyon oluşturmak için.
+<li><b>GitHub Desktop</b></li> Yerelde yaptığınız değişiklikleri commit edip GitHub'a göndermek için.
+<li><b>GitHub Gists</b></li> Bir arkadaşınıza hızlıca bir SQL sorgusu veya config ayarını paylaşmak için.
+<li><b>GitHub Copilot</b></li> Tekrarlayan kod bloklarını hızlıca yazmak veya yeni bir dilde fonksiyon oluşturmak için.
 
 
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
