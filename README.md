@@ -1,8 +1,8 @@
 # GitHub Desktop, GitHub Gists ve GitHub Copilot
 
 ## GitHub Desktop Nedir?
-<p align="justify">Git ve GitHub işlemlerini grafik arayüz (GUI) üzerinden yapmanızı sağlayan, masaüstü uygulamasıdır.
-<b>Kime Hitap Eder?</b> Özellikle yeni başlayanlar veya komut satırı (CLI) kullanmak istemeyenler için idealdir.
+<p align="justify">Git ve GitHub işlemlerini grafik arayüz (GUI) üzerinden yapmanızı sağlayan, masaüstü uygulamasıdır.<br>
+<b>Kime Hitap Eder?</b> Özellikle yeni başlayanlar veya komut satırı (CLI) kullanmak istemeyenler için idealdir.<br>
 <b>Ne Yapar?</b>
 <li>Repo oluşturma, clone'lama,</li>
 <li>Branch oluşturma,</li>
