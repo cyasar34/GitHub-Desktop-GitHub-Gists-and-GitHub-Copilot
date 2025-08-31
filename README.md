@@ -12,7 +12,7 @@
 
 [Github Desktop Sayfası Linki](https://desktop.github.com/download/) ilgili sayfadan GitHub Desktop'ı indirip adımları takip ederek kurulum yapabilirsiniz.
 
-![Github Desktop Görüntü](https://github.com/cyasar34/Git-vs-Github/blob/main/repository_olusturma.jpg)
+![Github Desktop Görüntü](https://github.com/cyasar34/GitHub-Desktop-GitHub-Gists-and-GitHub-Copilot/blob/main/Gthub_Desktop.PNG)
 
 ### En Basit Haliyle: "Proje Dosyaları için Google Drive"
 
